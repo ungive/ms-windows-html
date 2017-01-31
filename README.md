@@ -214,7 +214,7 @@ const textLabel = new Label({
 * `Vector(x, y)`: A simple vector class. Used for moving a [Window](#window).  
 
 **Functions:**  
-* 'Object.prototype.define((property, descriptor)': Same effect as [`Object.defineProperty(obj, prop, descriptor)`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
+* `Object.prototype.define((property, descriptor)`: Same effect as [`Object.defineProperty(obj, prop, descriptor)`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
 
 --
 Licensed under MIT License. ©Jonas Vanen 2017.  

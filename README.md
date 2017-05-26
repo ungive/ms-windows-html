@@ -16,7 +16,7 @@ document.body.appendChild(yourElement.element);
 #### Additional files  
 * [`Utility`](#utility)  
 
---
+---
 
 #### Window  
 **Constructor:**  
@@ -47,7 +47,7 @@ const app = new Window({
 });
 ```
 
---
+---
 
 #### ComboBox  
 **Constructor:**  
@@ -87,7 +87,7 @@ const dropdownMenu = new ComboBox({
 })
 ```
 
---
+---
 
 #### Button  
 **Constructor:**  
@@ -122,7 +122,7 @@ const downloadButton = new Button({
 });
 ```
 
---
+---
 
 #### CheckBox  
 **Constructor:**  
@@ -153,7 +153,7 @@ const freeCandyCheckBox = new CheckBox({
 });
 ```
 
---
+---
 
 #### ProgressBar  
 **Constructor:**  
@@ -183,7 +183,7 @@ const progress = new ProgressBar({
 });
 ```
 
---
+---
 
 #### Label  
 **Constructor:**  
@@ -212,7 +212,7 @@ const textLabel = new Label({
 })
 ```
 
---
+---
 
 #### Utility  
 **Classes:**  
@@ -221,6 +221,8 @@ const textLabel = new Label({
 **Functions:**  
 * `Object.prototype.define(property, descriptor)`: Same effect as [`Object.defineProperty(obj, prop, descriptor)`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
 
---
-Licensed under MIT License. ©Jonas Vanen 2017.  
-Design: ©Microsoft Windows  
+---
+
+©2017 Jonas van den Berg  
+Licensed under the MIT License.  
+The design is taken from Microsoft Windows.
